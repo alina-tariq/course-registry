@@ -1,1 +1,1 @@
-# Student Registry
+# Student Registry System
